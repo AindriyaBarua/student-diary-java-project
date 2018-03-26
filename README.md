@@ -9,13 +9,13 @@ You either choose if you are
 1. a student or  
 2. a faculty
 
-
+Access:  
 1. Student can only view his/her details in various fields 
 2. Faculty has option to both edit or see the information of different fields
 
 Finally all the edited objects are written to files
 
-This project is an implementation of various OOP concepts of java like:
+This project, that I did in S3 is an implementation of various OOP concepts of java like:
 *java classes and objects
 *inheritence and polymorphism
 *interfaces and packages
