@@ -15,7 +15,7 @@ Access:
 
 Finally all the edited objects are written to files
 
-This project, that I did in S3 is an implementation of various OOP concepts of java like:
+This project, that I did in S3 is an implementation of various OOP concepts of java like:  
 *java classes and objects  
 *inheritence and polymorphism  
 *interfaces and packages  
