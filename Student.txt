@@ -1,0 +1,3 @@
+Aindriya Barua,AM.EN.U4CSE16503,3, CSE, Adhchni, Delhi, Delhi, India,799004,1998,20,12
+Sama Roy ,AM.EN.U4CSE16504,3, CSE, Aralia, Agartala, Tripura, India,110017,1998,2,5
+Asha Paul,AM.EN.U4CSE16505,3, CSE, Barashat, Kolkata, West Bengal, India,110045,1998,11,6
